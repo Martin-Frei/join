@@ -78,11 +78,11 @@ Anne Sanewski	Developer	Sign-in and user handling
 
 🖼️ Screenshots
 Kanban Board
-<img src="screenshots/2025-11-10Screenshoot_Join_KanBan_Board.png" alt="Kanban Board" width="600"/>
+<img src="screenshots/2025-11-10Screenshot_Join_KanBan_Board.png" alt="Kanban Board" width="600"/>
 Task Board
-<img src="screenshots/2025-11-10Screenshoot_Join_Task_Board.png" alt="Kanban Board" width="600"/>
+<img src="screenshots/2025-11-10Screenshot_Join_Task_Board.png" alt="Kanban Board" width="600"/>
 Contacts Module (by Martin Freimuth)
-<img src="screenshots/2025-11-10Screenshoot_Join_Contacts.png" alt="Contacts Module" width="600"/>
+<img src="screenshots/2025-11-10Screenshot_Join_Contacts.png" alt="Contacts Module" width="600"/>
 Images are responsive and scale down on smaller screens.
 
 ⚙️ Setup Instructions
