@@ -76,13 +76,16 @@ Martin Freimuth	Developer	Contacts module, UI integration, Firebase setup, docum
 Evgenij Liske	Developer	Task and board logic
 Anne Sanewski	Developer	Sign-in and user handling
 
-🖼️ Screenshots
-Kanban Board
-<img src="screenshots/2025-11-10Screenshot_Join_KanBan_Board.png" alt="Kanban Board" width="600"/>
-Task Board
-<img src="screenshots/2025-11-10Screenshot_Join_Task_Board.png" alt="Kanban Board" width="600"/>
-Contacts Module (by Martin Freimuth)
-<img src="screenshots/2025-11-10Screenshot_Join_Contacts.png" alt="Contacts Module" width="600"/>
+### 🖼️ Screenshots
+
+**Kanban Board**  
+![Kanban Board](screenshots/2025-11-10Screenshot_Join_KanBan_Board.png)
+
+**Task Board**  
+![Task Board](screenshots/2025-11-10Screenshot_Join_Task_Board.png)
+
+**Contacts Module (by Martin Freimuth)**  
+![Contacts Module](screenshots/2025-11-10Screenshot_Join_Contacts.png)
 Images are responsive and scale down on smaller screens.
 
 ⚙️ Setup Instructions
