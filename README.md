@@ -76,6 +76,7 @@ Martin Freimuth	Developer	Contacts module
 Anne Sanewski	Developer	Task and board logic
 Evgenij Liske	Developer	Sign-in and user handling
 
+```
 ### 🖼️ Screenshots
 # 🧩 Join – Collaborative Kanban Board
 
