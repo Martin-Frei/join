@@ -83,7 +83,7 @@ Evgenij Liske	Developer	Sign-in and user handling
 > A team-based Kanban board application for efficient task management and team collaboration
 
 [![Live Demo](https://img.shields.io/badge/demo-live-success)](https://martin-frei.github.io/join/)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 
 Developed as a collaborative group project at **Developer Akademie**, Join is a fully functional task management tool built with vanilla JavaScript, HTML5, and CSS3.
 
